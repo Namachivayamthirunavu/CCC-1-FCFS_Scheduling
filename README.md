@@ -1,8 +1,9 @@
 # Exercise 1(a): Program to Implement FCFS Scheduling
 
-Royce Niran George A
-
-212223060231
+```
+Name : Namachivayam T
+Reg No : 212223060179
+```
 
 ## Aim
 
